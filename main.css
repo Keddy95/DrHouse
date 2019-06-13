@@ -1,0 +1,61 @@
+body{
+	background: #e6e7f0;
+	background-image: url('immagini/house.jpg');
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-attachment: fixed;
+}
+
+#storia{
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	margin: 30px 310px 30px 30px;
+}
+
+.title{
+	background-image: url('immagini/plus.jpg');
+	background-repeat: repeat;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+h1{
+	color: #990000;
+	font-family: serif;
+	padding: 10px;
+	border-bottom: 2px solid #990000;
+}
+
+#storia .principali .titolo{
+	color: #990000;
+	font-family: serif;
+	padding-right: 20px;
+	border-bottom: 1px solid #990000;
+}
+
+p{
+	font-family: sans-serif;
+	text-align: left;
+	line-height: 30px;
+	padding: 0 20px 0 20px;
+}
+
+#storia blockquote{
+	width: 50%;
+	height: 100%;
+	padding-bottom: 20px;
+	font-family: serif;
+	font-style: italic;
+	font-size: 20px;
+	background-image: url('immagini/citazione.jpg');
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+li{
+	font-family: sans-serif;
+	text-align: justify;
+	line-height: 30px;
+	padding: 0 20px 0 20px;
+	margin-left: 30px;
+}
